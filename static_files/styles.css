@@ -1,0 +1,16 @@
+body{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    max-width: 80em;
+    margin: auto;
+    grid-gap: 1em;
+    background-color: #5CFFDA;
+}
+
+div{
+    background-color: #E8BEA5;
+    padding: 5px;
+    text-align: center;
+}
+
+
